@@ -1,0 +1,1 @@
+git grep -E '(it|context|beforeEach|beforeAll|afterEach|afterAll|sharedExamplesFor|itShouldBehaveLike)\(' -- <name of the test file>
